@@ -1,5 +1,5 @@
-# server-performance-stat
-bash script to check the server performance statistics
+# Server-performance-stat
+Bash script to check the Linux server performance statistics from https://roadmap.sh/projects/server-stats
 
 ## Features
 
