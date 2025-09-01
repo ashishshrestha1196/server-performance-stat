@@ -37,7 +37,7 @@ sudo yum install sysstat
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/server-stats.git
+git clone https://github.com/ashishshrestha1196/server-performance-stat.git
 cd server-stats
 ````
 
