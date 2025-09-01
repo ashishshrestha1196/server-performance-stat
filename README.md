@@ -62,6 +62,7 @@ The script will print a detailed report of server stats directly in your termina
 ---
 
 ## Screenshot
+![Example Script Output](Code_Screenshot.png)
 
 
 
